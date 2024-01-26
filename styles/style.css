@@ -1,0 +1,41 @@
+.title{
+color:black;
+
+
+}
+
+body{
+
+color:black;
+
+}
+.philHeath{
+
+height: 300px;
+width: 300px;
+
+}
+
+.mainHeading{
+
+font-family:'Times New Roman', Times, serif;
+background-color: darkorange;
+font-weight: 800;
+
+}
+.mainList{
+font-family:Arial, Helvetica, sans-serif;
+color:blue;
+
+}
+
+.about{
+background-color:green;
+
+}
+
+.oatmeal,.energy,.monster{
+
+background-color: aqua;
+}
+
